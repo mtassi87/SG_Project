@@ -4,7 +4,7 @@
  * Social Gaming
  * Copyright © 2015 Social Gaming
  * Authors: Mehdi Tassi & Mourad Dris
- * Version: Alpha
+ * Version: Beta
  */
 
 $yii = dirname(__FILE__) . '/protected/vendors/yii/yii.php';

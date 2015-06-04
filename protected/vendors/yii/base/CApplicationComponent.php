@@ -1,12 +1,5 @@
 <?php
-/**
- * This file contains the base application component class.
- *
- * @author Qiang Xue <qiang.xue@gmail.com>
- * @link http://www.yiiframework.com/
- * @copyright 2008-2013 Yii Software LLC
- * @license http://www.yiiframework.com/license/
- */
+
 
 /**
  * CApplicationComponent is the base class for application component classes.

@@ -28,9 +28,9 @@
             <span class="pull-right">
                 <?php echo Yii::powered(); ?>
             </span>
-            © <?php echo date("Y") ?> <a href="http://www.humhub.com">HumHub GmbH & Co. KG</a>
+            © <?php echo date("Y") ?>Social Gaming</a>
             &middot;
-            <?php echo CHtml::link(Yii::t('AdminModule.views_about_index', 'Licences'), "http://www.humhub.com/licences", array('target' => '_blank')); ?>
+            <?php echo CHtml::link(Yii::t('AdminModule.views_about_index', 'Licences'),  array('target' => '_blank')); ?>
             <br />
 
         </p>

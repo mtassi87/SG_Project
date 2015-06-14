@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Social Gaming
+ * Social Gaming  PSW: admin
  * Copyright © 2015 Social Gaming
  * Authors: Mehdi Tassi & Mourad Dris
  * Version: Beta

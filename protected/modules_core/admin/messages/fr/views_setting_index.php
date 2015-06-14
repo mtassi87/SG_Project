@@ -5,7 +5,7 @@ return array (
   'Cancel' => 'Annuler',
   'Dashboard' => 'Fil d\'actualité',
   'Delete' => 'Supprimer',
-  'E.g. http://example.com/humhub' => 'Ex. http://example.com/humhub',
+  'E.g. http://example.com/SocialGaming' => 'Ex. http://example.com/SocialGaming',
   'New users will automatically added to these space(s).' => 'Les nouveaux utilisateurs seront automatiquement ajoutés à ces espaces',
   'Save' => 'Enregistrer',
   'You\'re using no logo at the moment. Upload your logo now.' => '',

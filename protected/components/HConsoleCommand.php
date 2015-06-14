@@ -41,7 +41,7 @@ class HConsoleCommand extends CConsoleCommand
         print "
 
 
-                     HumHub Console Interface - Version 1
+                     Social Gaming Console Interface - Version 1
 
 --------------------------------------------------------------------------------
 $title

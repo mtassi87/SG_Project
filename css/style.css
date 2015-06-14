@@ -335,7 +335,7 @@ textarea {
 .panel-profile .panel-profile-header .img-profile-data h1 {
   font-size: 30px;
   font-weight: 100;
-  margin-bottom: 7px;
+  margin-bottom: 27px;
   color: #fff;
   max-width: 600px;
   white-space: nowrap;
@@ -611,7 +611,7 @@ ul.tour-list li.completed a {
   padding: 15px;
 }
 .placeholder-empty-stream {
-  background-image: url('../img/placeholder-postform-arrow.png');
+  
   background-repeat: no-repeat;
   padding: 37px 0 0 70px;
   margin-left: 90px;

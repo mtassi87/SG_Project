@@ -15,15 +15,7 @@ class Controller extends EController
     public $subLayout = '';
     private $_pageTitle;
 
-    /**
-     * Inits the controller class.
-     *
-     * - Force Installer when not HumHub is not installed yet.
-     * - Registers Event Interceptor
-     * - Loads Basic HSetting
-     * - Set Language
-     * - Check Database Version
-     */
+
     public function init()
     {
 

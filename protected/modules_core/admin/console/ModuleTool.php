@@ -2,7 +2,7 @@
 
 /**
  * HumHub
- * Copyright © 2014 The HumHub Project
+ * Copyright © 2014 The Social Gaming Project
  *
  * The texts of the GNU Affero General Public License with an additional
  * permission and of our proprietary license can be found at and
@@ -21,7 +21,7 @@
 /**
  * Tool for managing modules by command line
  *
- * @package humhub.modules_core.admin.console
+ * @package SocialGaming.modules_core.admin.console
  * @since 0.5
  */
 class ModuleTool extends HConsoleCommand

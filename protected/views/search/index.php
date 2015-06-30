@@ -9,7 +9,7 @@
  * @property Int $pageSize shows max. records per page
  * @property CPagination $pages is the pagination instance
  *
- * @package humhub.controllers
+ * @package SocialGaming.controllers
  * @since 0.5
  */
 ?>

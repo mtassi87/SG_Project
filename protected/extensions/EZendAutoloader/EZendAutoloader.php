@@ -2,10 +2,6 @@
 /**
  * EZendAutoloader
  *
- * @author Alexander Makarov
- * @version 1.1
- *
- * See readme for instructions.
  */
 class EZendAutoloader {
 	/**

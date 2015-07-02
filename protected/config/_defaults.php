@@ -3,7 +3,7 @@
 return array(
     'basePath' => dirname(__FILE__) . DIRECTORY_SEPARATOR . '..',
     // Default Application Name
-    'name' => 'HumHub',
+    'name' => 'Social_Gaming',
     'preload' => array('log', 'input'),
     'components' => array(
         // Database
@@ -28,7 +28,7 @@ return array(
                     'connectionId' => 'db',
                 ),
                 '/' => '//',
-                'dashboard' => 'dashboard/dashboard',
+                //'dashboard' => 'dashboard/dashboard',
                 'directory/members' => 'directory/directory/members',
                 'directory/spaces' => 'directory/directory/spaces',
                 '<controller:\w+>/<id:\d+>' => '<controller>/view',

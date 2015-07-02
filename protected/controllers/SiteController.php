@@ -10,7 +10,7 @@ class SiteController extends Controller {
      * This is the default 'index' action that is invoked
      * when an action is not explicitly requested by users.
      */
-    public function actionIndex() {
+   public function actionIndex() {
 
         $this->redirect(array('dashboard/dashboard'));
     }
